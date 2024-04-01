@@ -1,0 +1,49 @@
+{
+    "Config": [
+
+        {
+            "Name": "Rubrichette",
+            "playlist_url": "https://youtube.com/playlist?list=PLPHm-W4h2TcZNhkxZmr2IoONhFliDxjDP&si=ir3qDPdg1BNokKzS",
+            "download_folder": "/home/pi/YoutubeRips/Rubrichette/", 
+            "days": 60, 
+            "is_reversed": true
+        },
+        {
+            "Name":"FiveMinutesCraft",
+            "playlist_url": "https://youtube.com/playlist?list=PLoaTLsTsV3hM7dBxY2mI-tMFlI3YW6DPE&si=Xx6Nm1MBqLy7psHf",
+            "max_download" : 30,
+            "download_folder": "/home/pi/YoutubeRips/FiveMinutesCraft/",
+            "days": 60,
+            "is_reversed": true
+            
+        },
+        {
+            "Name": "EndriuFiles - Murder Files",
+            "playlist_url": "https://youtube.com/playlist?list=PLEfHtDe6k2r-Cs5bDkehOILYDVJ_ujmet&si=AcFmMV40Jfsb33zL",
+            "max_download" : 5,
+            "download_folder": "/home/pi/YoutubeRips/EndriuFiles/",
+            "days": 60 
+        },
+        {
+            "Name": "DDM - TryNotToLaughChallenge",
+            "playlist_url": "https://youtube.com/playlist?list=PLrb8vDxKYfWcUbp0jJu1rFBwq2e89uMTE&si=LOq-5Y_mq2uDN-JJ",
+            "max_download" : 5,
+            "download_folder": "/home/pi/YoutubeRips/TryNotToLaughChallenge/",
+            "days": 60 
+        },
+        {
+            "Name": "NEURODROME",
+            "playlist_url": "https://www.youtube.com/@NEURODROME/videos",
+            "max_download" : 5,
+            "download_folder": "/home/pi/YoutubeRips/NEURODROME/",
+            "days": 60 
+        },
+        {
+            "Name": "Solo Horror",
+            "playlist_url": "https://www.youtube.com/@SoloHorror/videos",
+            "max_download" : 5,
+            "download_folder": "/home/pi/YoutubeRips/SoloHorror/",
+            "days": 60 
+        }
+    ]
+}
